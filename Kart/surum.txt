@@ -1,0 +1,4 @@
+SURUM=2.8
+ZIP=MakroKlavye-Kart-2.8.zip
+SHA256=da2a0e11de0110848f4b44055bd33fd54e67d4dadce024d7e1b9a268103a8aac
+NOT=Tuş ya da encoder basılıyken encoder çevirme komutları, LED akım sınırı (USB zorlanmasın diye parlaklık kendiliğinden kısılır)
