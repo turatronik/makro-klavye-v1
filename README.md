@@ -157,4 +157,9 @@ Hata ayrıntıları `%APPDATA%\MakroKeyboard\hatalar.txt` dosyasına yazılır.
 
 ## Lisans
 
-MIT — bkz. [LICENSE](LICENSE).
+Bu depodaki her şey (yazılım, 3D modeller ve görseller) [CC BY-NC-SA 4.0](LICENSE)
+lisanslıdır: yapabilir, değiştirebilir ve paylaşabilirsin; Turatronik'i kaynak
+göstermen ve değiştirdiğin sürümü aynı lisansla paylaşman gerekir. Satmak ve ticari
+amaçla kullanmak yasaktır.
+
+Türkçe Q klavye düzeni tablosu Neradoc/Circuitpython_Keyboard_Layouts projesinden alınmıştır (MIT).
